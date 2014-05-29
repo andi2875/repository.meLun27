@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.audio.romantic.radio" name="Romantic.Radio" version="0.0.1" provider-name="meLun27">
+<addon id="script.audio.deluxlounge" name="Romantic.Radio" version="0.0.1" provider-name="meLun27">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
